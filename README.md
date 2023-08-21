@@ -7,7 +7,6 @@ https://github.com/FlyGoat/RyzenAdj
 
 
 AMD Pstate EPP Driver (needs kernel 6.3+)
-https://gitlab.com/echoa/amd-pstate-guide
 
 to use the EPP driver you will need to add this to your kernel commandline `amd_pstate=active`
 
