@@ -1,0 +1,10 @@
+[Unit]
+Description=Set AMD P-State-EPP preference
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/set_balance_power.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
