@@ -3,6 +3,7 @@ some crap...
 
 RyzenAdj
 https://github.com/FlyGoat/RyzenAdj
+
 ExecStart=/usr/bin/ryzenadj  --slow-limit=9000 --fast-limit=13000 --tctl-temp 60 --power-saving
 limit to 9/13W / to be silent
 
