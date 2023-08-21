@@ -1,14 +1,15 @@
 # alma9_dots
 some crap...
 
-RyzenAdj
+**RyzenAdj**
+
 https://github.com/FlyGoat/RyzenAdj
 
-ExecStart=/usr/bin/ryzenadj  --slow-limit=9000 --fast-limit=13000 --tctl-temp 60 --power-saving
+```ExecStart=/usr/bin/ryzenadj  --slow-limit=9000 --fast-limit=13000 --tctl-temp 60 --power-saving```
 limit to 9/13W / to be silent
 
 
-AMD Pstate EPP Driver (needs kernel 6.3+)
+**AMD Pstate EPP Driver (needs kernel 6.3+)**
 
 to use the EPP driver you will need to add this to your kernel commandline `amd_pstate=active`
 
