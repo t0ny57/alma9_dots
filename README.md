@@ -1,5 +1,5 @@
 # alma9_dots
-my crap
+some crap...
 
 RyzenAdj
 https://github.com/FlyGoat/RyzenAdj
